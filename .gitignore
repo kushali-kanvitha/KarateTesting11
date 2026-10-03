@@ -1,8 +1,2 @@
-target/
 node_modules/
-.classpath
-.project
-.settings/
-.vscode/
-*.class
-*.log
+target/
